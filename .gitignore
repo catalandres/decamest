@@ -112,6 +112,7 @@ TestsResultsCache.xml
 
 ### SalesforceDX Patch ###
 .sfdx
+.sf
 
 ### VisualStudioCode ###
 .vscode/*
